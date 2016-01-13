@@ -1,12 +1,8 @@
+package Triangle;
 
 /*package Triangle;
 
-public class Main {	
-	public static void main(String[] arg) {			
-	}
-}*/
 
-/*
 Задание: 
  
 Интерфейс 
